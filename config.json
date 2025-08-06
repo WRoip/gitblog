@@ -5,7 +5,7 @@
     "client_secret": "4c834faa16759369b60a0b6116fe5df724b1e76f",
     "title": "Gitblog",
     "instruction": "个人博客",
-    "server_link": "http://119.23.8.0",
+    "server_link": "http://533cc.cn/gh-oauth-server.php",
     "filter": {
         "creator": "all",
         "state": "open"
@@ -14,12 +14,12 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : "https://imuncle.github.io"
+        "imuncle" : "https://blogs.wurp.top"
     },
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com/imuncle/gitblog",
+            "href" : "https://blogs.wurp.top",
             "hidden_img" : null,
             "width" : 0
         }
