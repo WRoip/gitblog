@@ -70,6 +70,7 @@ var gitblog = function(config) {
     var Info = function() {
         this.title = config.title;
         this.instruction = config.instruction;
+        this.labe = config.labe;
     }
 
     Info.prototype.init = function() {
