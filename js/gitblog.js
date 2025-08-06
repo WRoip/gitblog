@@ -76,6 +76,7 @@ var gitblog = function(config) {
     Info.prototype.init = function() {
         $('#title').text(this.title);
         $('#instruction').text(this.instruction);
+        $('#labe').text(this.labe);
         document.getElementsByTagName("title")[0].innerText = this.title;
     }
 
