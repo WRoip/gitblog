@@ -14,12 +14,12 @@
         "首页":"./"
     },
     "friends": {
-        "imuncle" : "https://blogs.wurp.top"
+        "Github" : "https://blogs.wurp.top"
     },
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://github.com",
+            "href" : "https://blogs.wurp.top",
             "hidden_img" : null,
             "width" : 0
         }
