@@ -3,7 +3,7 @@
     "repo": "gitblog",
     "client_id": "Ov23lijQBy4gwM69vF3S",
     "client_secret": "4c834faa16759369b60a0b6116fe5df724b1e76f",
-    "title": "Gitblog",
+    "title": "吴汝聘",
     "instruction": "个人博客",
     "server_link": "http://533cc.cn/gh-oauth-server.php",
     "filter": {
@@ -19,7 +19,7 @@
     "icons": {
         "Github" : {
             "icon_src" : "images/github.svg",
-            "href" : "https://blogs.wurp.top",
+            "href" : "https://github.com",
             "hidden_img" : null,
             "width" : 0
         }
