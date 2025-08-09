@@ -4,7 +4,7 @@
     "client_id": "Ov23lijQBy4gwM69vF3S",
     "client_secret": "4c834faa16759369b60a0b6116fe5df724b1e76f",
     "title": "吴汝聘",
-    "instruction": "个人博客 <img id="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数">",
+    "instruction": "个人博客 <img id='visitors' src='https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数'>",
     "labe":"平凡的世界 | 记录生活 \n ",
     "server_link": "http://533cc.cn/gh-oauth-server.php",
     "filter": {
