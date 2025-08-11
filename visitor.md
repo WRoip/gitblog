@@ -1,4 +1,8 @@
+<!--https://github.com/hehuapei/visitor-badge-->
+<!--[个人博客](http://blogs.wurp.top) -->
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs12.wurp&left_text=访%20问%20人%20数)-->
 24<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
+1<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs12.wurp&left_text=访%20问%20人%20数&query_only=true">STM32F103最小启动系统搭建</br>
 06<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs11.wurp&left_text=访%20问%20人%20数&query_only=true">基于STM32F103的BMP280使用指南</br>
 10<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs10.wurp&left_text=访%20问%20人%20数&query_only=true">基于STM32F103的W25Q128 SPI Flash使用指南</br>
 08<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs9.wurp&left_text=访%20问%20人%20数&query_only=true">NTC(3380K)采集温度-基于STM32F103</br>
