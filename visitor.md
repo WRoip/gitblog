@@ -1,7 +1,8 @@
 <!--https://github.com/hehuapei/visitor-badge-->
 <!--[个人博客](http://blogs.wurp.top) -->
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs14.wurp&left_text=访%20问%20人%20数)-->
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs15.wurp&left_text=访%20问%20人%20数)-->
 25<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
+3<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs15.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS 任务管理详细讲解</br>
 3<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs14.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS 任务管理详细讲解</br>
 4<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs13.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS定时器详细讲解</br>
 3<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs12.wurp&left_text=访%20问%20人%20数&query_only=true">STM32F103最小启动系统搭建</br>
