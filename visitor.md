@@ -1,14 +1,19 @@
 <!--https://github.com/hehuapei/visitor-badge-->
 <!--[个人博客](http://blogs.wurp.top) -->
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs16.wurp&left_text=访%20问%20人%20数)-->
-25<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
-3<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs16.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS FreeRTOS事件组讲解</br>
-2<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs15.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS FreeRTOS 信号量与互斥量</br>
-3<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs14.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS 任务管理详细讲解</br>
-3<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs13.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS定时器详细讲解</br>
-4<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs12.wurp&left_text=访%20问%20人%20数&query_only=true">STM32F103最小启动系统搭建</br>
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs21.wurp&left_text=访%20问%20人%20数)-->
+28<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs21.wurp&left_text=访%20问%20人%20数&query_only=true">在STM32F103上进行FreeRTOS移植和配置（源码移植）</br>
+03<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs20.wurp&left_text=访%20问%20人%20数&query_only=true">在STM32F103上进行FreeRTOS移植和配置（STM32CubeIDE）</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs19.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS多核支持</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs18.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS中断服务程序（ISR）详细讲解</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs17.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS内存管理详细讲解</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs16.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS FreeRTOS事件组讲解</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs15.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS FreeRTOS 信号量与互斥量</br>
+03<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs14.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS 任务管理详细讲解</br>
+03<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs13.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS定时器详细讲解</br>
+05<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs12.wurp&left_text=访%20问%20人%20数&query_only=true">STM32F103最小启动系统搭建</br>
 06<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs11.wurp&left_text=访%20问%20人%20数&query_only=true">基于STM32F103的BMP280使用指南</br>
-10<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs10.wurp&left_text=访%20问%20人%20数&query_only=true">基于STM32F103的W25Q128 SPI Flash使用指南</br>
+11<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs10.wurp&left_text=访%20问%20人%20数&query_only=true">基于STM32F103的W25Q128 SPI Flash使用指南</br>
 08<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs9.wurp&left_text=访%20问%20人%20数&query_only=true">NTC(3380K)采集温度-基于STM32F103</br>
 22<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs8.wurp&left_text=访%20问%20人%20数&query_only=true">GitHub Pages静态网站添加访问量记录</br>
 17<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs7.wurp&left_text=访%20问%20人%20数&query_only=true">电路阻抗(Z)计算与分析详解</br>
