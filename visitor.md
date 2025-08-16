@@ -1,8 +1,9 @@
 <!--https://github.com/hehuapei/visitor-badge-->
 <!--[个人博客](http://blogs.wurp.top) -->
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs19.wurp&left_text=访%20问%20人%20数)-->
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs20.wurp&left_text=访%20问%20人%20数)-->
 25<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
-2<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs19.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS中断服务程序（ISR）详细讲解</br>
+2<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs20.wurp&left_text=访%20问%20人%20数&query_only=true">在STM32F103上进行FreeRTOS移植和配置（STM32CubeIDE）</br>
+2<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs19.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS多核支持</br>
 2<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs18.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS中断服务程序（ISR）详细讲解</br>
 2<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs17.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS内存管理详细讲解</br>
 3<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs16.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS FreeRTOS事件组讲解</br>
