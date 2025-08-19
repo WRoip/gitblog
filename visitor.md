@@ -1,7 +1,9 @@
 <!--https://github.com/hehuapei/visitor-badge-->
 <!--[个人博客](http://blogs.wurp.top) -->
-<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs25.wurp&left_text=访%20问%20人%20数)-->
-33<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
+<!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs27.wurp&left_text=访%20问%20人%20数)-->
+35<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs27.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 控件与界面设计的详细讲解</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs26.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 GUI 编程详解</br>
 02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs25.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5基础控件详细讲解</br>
 02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs24.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5核心模块详细讲解</br>
 03<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs23.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 的基础知识</br>
@@ -15,7 +17,7 @@
 02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs15.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS FreeRTOS 信号量与互斥量</br>
 03<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs14.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS 任务管理详细讲解</br>
 03<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs13.wurp&left_text=访%20问%20人%20数&query_only=true">FreeRTOS定时器详细讲解</br>
-05<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs12.wurp&left_text=访%20问%20人%20数&query_only=true">STM32F103最小启动系统搭建</br>
+09<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs12.wurp&left_text=访%20问%20人%20数&query_only=true">STM32F103最小启动系统搭建</br>
 06<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs11.wurp&left_text=访%20问%20人%20数&query_only=true">基于STM32F103的BMP280使用指南</br>
 11<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs10.wurp&left_text=访%20问%20人%20数&query_only=true">基于STM32F103的W25Q128 SPI Flash使用指南</br>
 08<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs9.wurp&left_text=访%20问%20人%20数&query_only=true">NTC(3380K)采集温度-基于STM32F103</br>
