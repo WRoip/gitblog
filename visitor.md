@@ -2,7 +2,7 @@
 <!--[个人博客](http://blogs.wurp.top) -->
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=blogs35.wurp&left_text=访%20问%20人%20数)-->
 36<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs.wurp.top&left_text=访%20问%20人%20数&query_only=true">首页</br>
-02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs35.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 项目的构建与部署详细讲解</br>
+02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs35.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 高级功能</br>
 02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs34.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 项目的构建与部署详细讲解</br>
 02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs33.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 的跨平台开发详细讲解</br>
 02<img src="https://visitor-badge.laobi.icu/badge?page_id=blogs32.wurp&left_text=访%20问%20人%20数&query_only=true">Qt5 文件与数据处理详解</br>
